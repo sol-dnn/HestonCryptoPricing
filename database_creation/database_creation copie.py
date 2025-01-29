@@ -1,10 +1,6 @@
 '''
 Test Deribit Database:
 
-API ID : _IhAu5WF
-API KEY Name : opption_pricing
-API KEY : gRzhL4N9iapzEtv3hgnHyJH4G4Bwafwhru6HWaGf3zk
-
 Get a crypto options data ( price, implied volatility, strike, maturity, etc..) on BTC-USD and ETH-USD for a random day
 If possible, get an option chain on Deribit (conséq data for a week or one month)
 
