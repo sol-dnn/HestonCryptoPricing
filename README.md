@@ -11,6 +11,7 @@ This repository contains research and implementation of **Heston model calibrati
 - **Optimization Techniques**: Use **Levenberg-Marquardt, Differential Evolution, and L2 regularization** for calibration.  
 
 ## Repository Structure  
+```plaintext
 HestonCryptoPricing/ 
 │── database_creation/ # Collecting and processing crypto options data from Deribit API
 │── src
@@ -21,6 +22,7 @@ HestonCryptoPricing/
 │── related_papers        # All the references
 │── README.md         # Project documentation
 │── requirements.txt # Dependencies for running the code
+```
 
 ## Installation  
 To install the required dependencies, run:  
